@@ -7,7 +7,7 @@
 
 - 📝 I regularly write articles on [www.linkedin.com/in/mannat-raheja-999r](www.linkedin.com/in/mannat-raheja-999r)
 
-- 💬 Ask me about **Web Development**
+- 💬 Ask me about **Data Science and Web Development**
 
 - 📫 How to reach me **mannatraheja779@gmail.com**
 
