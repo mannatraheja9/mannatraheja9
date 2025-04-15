@@ -1,11 +1,9 @@
 <h1 align="center">Hi👋, I'm Mannat.</h1>
-<h3 align="center">I'm a Full-Stack Web Developer who thrives on challenges, constant learning, and creating meaningful solutions. I believe in the power of technology to change lives, and that's exactly what excites me about programming.</h3>
+<h3 align="center">I'm a Web Developer who thrives on challenges, constant learning, and creating meaningful solutions. I believe in the power of technology to change lives, and that's exactly what excites me about programming.</h3>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/7fd4efd6621565a2e09921d15de74e315fc4a8755660721dcb9ce5f97d27abcb/68747470733a2f2f63646e2e686173686e6f64652e636f6d2f7265732f686173686e6f64652f696d6167652f75706c6f61642f76313638313536323530383336352f6b39367a307833566a2e676966")
 
 
 - 👨‍💻 All of my projects are available at [https://github.com/mannatraheja9](https://github.com/mannatraheja9)
-
-- 📝 I regularly write articles on [www.linkedin.com/in/mannat-raheja-999r](www.linkedin.com/in/mannat-raheja-999r)
 
 - 💬 Ask me about **Data Science and Web Development**
 
